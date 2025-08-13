@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asia-Central Asia Biotechnology Clinical Trials Summit</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-bg: #121212;
+            --secondary-bg: #1e1e1e;
+            --accent-green: #4CAF50;
+            --text-color: #E0E0E0;
+            --heading-color: #FFFFFF;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--primary-bg);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background-color: var(--secondary-bg);
+            color: var(--heading-color);
+            text-align: center;
+            padding: 100px 20px;
+            border-bottom: 3px solid var(--accent-green);
+        }
+
+        .header h1 {
+            font-size: 3.5em;
+            margin: 0;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            margin: 10px 0 0;
+            color: #B0B0B0;
+        }
+
+        .section {
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .section h2 {
+            font-size: 2.5em;
+            color: var(--accent-green);
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .call-to-action {
+            background-color: var(--secondary-bg);
+            border-radius: 10px;
+            padding: 40px;
+            margin: 40px 0;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+            text-align: left;
+        }
+
+        .call-to-action h3 {
+            font-size: 2em;
+            margin-top: 0;
+            color: var(--heading-color);
+        }
+
+        .call-to-action p {
+            font-size: 1.1em;
+            margin-bottom: 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: var(--accent-green);
+            color: var(--heading-color);
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #388E3C;
+        }
+
+        .footer {
+            background-color: var(--secondary-bg);
+            text-align: center;
+            padding: 20px;
+            border-top: 1px solid #333;
+            color: #888;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Asia-Central Asia Biotechnology Clinical Trials Summit</h1>
+        <p>Innovating Global Health Through Targeted Research</p>
+    </div>
+
+    <div class="container">
+        <div class="section intro">
+            <h2>Advancing Clinical Trials in Biotechnology</h2>
+            <p>Join us for a pivotal international conference dedicated to the latest advancements, challenges, and collaborative opportunities in biotechnology clinical trials. This event aims to bridge the gap between groundbreaking research and practical application, with a special focus on emerging talent from across Asia and Central Asia.</p>
+        </div>
+
+        <div class="section call-to-action">
+            <h3>Call for Submissions: PhD Students</h3>
+            <p>We invite PhD students from universities throughout **Asia and Central Asia** to submit their abstracts and research for consideration. This is your chance to showcase your work to a global audience of leading academics and industry professionals. We are looking for innovative research in areas such as gene therapy, personalized medicine, biopharmaceuticals, and novel diagnostic tools.</p>
+            <a href="#" class="btn">Submit Your Abstract Now</a>
+        </div>
+
+        <div class="section key-info">
+            <h2>Important Dates</h2>
+            <p><strong>Submission Deadline:</strong> July 15, 2026</p>
+            <p><strong>Conference Dates:</strong> October 22-24, 2026</p>
+            <p><strong>Location:</strong> Hybrid format (Virtual & In-person location to be announced)</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Asia-Central Asia Biotechnology Clinical Trials Summit. All Rights Reserved.</p>
+    </div>
+
+</body>
+</html>
